@@ -3,3 +3,7 @@ scikit-learn
 mygene
 psutil
 pyarrow
+statsmodels
+matplotlib
+seaborn
+gseapy

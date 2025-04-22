@@ -6,3 +6,4 @@ integrated_data.csv
 mergefinalfinal.py
 merged_clinical_proteome_data.csv
 merged_clinical_phosphoproteome_data.csv
+.DS_Store
